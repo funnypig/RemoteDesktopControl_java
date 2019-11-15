@@ -31,4 +31,6 @@ There are some problems:
 - specific combinations execute on client computer (f.e. Alt+F4 -  will close program)
 - Drag and Drop is not implemented
 
+## HOST and PORT are hard coded in project!!! You have to change it for your needs!
+
 This is very simple implementation of RDC, but it is very easy to improve it.
